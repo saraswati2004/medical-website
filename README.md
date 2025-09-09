@@ -29,7 +29,7 @@ A web application for securely storing, managing, and sharing medical records.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/manmohan1008/Medical-Repository-Website.git
+    git clone https://github.com/saraswati2004/Medical-Repository-Website.git
     cd Medical-Repository-Website
     ```
 
